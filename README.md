@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Maria Clara. 🌸 
 
-- 🧁 Atualmente aprendendo **JavaScript**, **HTML5**, **CSS3**, **Gatsby**, **Bootstrap**, **SASS** e **Nuvem AWS**.
+- 🧁 Atualmente aprendendo **JavaScript**, **React**, **Angular** e **Nuvem AWS**.
 
 <div align="center">
   <a href="https://github.com/claraeloi">
